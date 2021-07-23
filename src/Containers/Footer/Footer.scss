@@ -1,0 +1,13 @@
+#footer-container {
+    width: 100%;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    #footer-text {
+        color: white;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
